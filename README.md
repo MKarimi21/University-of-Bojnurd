@@ -13,4 +13,10 @@ Semester 01:
                 GAMS, MATLAB, Python, C and CPP.
               Library:
                 Numpy.
+        #03- MADM
+               Language Programming Software and Software:
+                Expert Choice, Super Decision, Topsis, Decision Lab and Excel.
+               Library:
+                Noting
                 
+            
