@@ -12,16 +12,27 @@ Semester 01:
 #                
               Library:
 #
-              Numpy, Gurobi
+                Numpy, Gurobi
+#     
         #02- Sequencing
+#             
               Language Programming Software and Software:
+#               
                 GAMS, MATLAB, Python, C and CPP.
+#              
               Library:
+#               
                 Numpy.
+#       
         #03- MADM
-               Language Programming Software and Software:
+#              
+              Language Programming Software and Software:
+#               
                 Expert Choice, Super Decision, Topsis, Decision Lab and Excel.
-               Library:
+#             
+              Library:
+#               
                 Noting
-                
+               
+               
             
