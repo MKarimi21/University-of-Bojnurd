@@ -1,13 +1,18 @@
 # University-of-Bojnurd
 Practice courses in Industrial Engineering in Optimizing in the University of Bojnurd (OIE)
 
-
+#
 Semester 01:
+#
         #01- IP (Integer Programming) 
+#        
               Language Programming Software and Software:
+#             
                 GAMS, MATLAB, Python.
+#                
               Library:
-                Numpy, Gurobi
+#
+              Numpy, Gurobi
         #02- Sequencing
               Language Programming Software and Software:
                 GAMS, MATLAB, Python, C and CPP.
