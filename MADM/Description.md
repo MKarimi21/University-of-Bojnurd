@@ -29,5 +29,6 @@ License for MADM
   # 4-Decision Lab
         for Promethee algorithm
       
-        link for Download: [Download](http://s9.picofile.com/file/8374074984/4_Decision_Lab.rar.html) 
+        link for Download: 
+[Download](http://s9.picofile.com/file/8374074984/4_Decision_Lab.rar.html) 
         
