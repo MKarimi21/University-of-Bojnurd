@@ -19,7 +19,7 @@ License for MADM
         
         
   ## 3-TOPSIS
-  **for Topsis algorithm **
+  **for Topsis algorithm**
        
         link for Download:
 [Download](http://s9.picofile.com/file/8374074884/3_MCDM_engine.rar.html) 
@@ -27,7 +27,7 @@ License for MADM
         
        
   ## 4-Decision Lab
-  **for Promethee algorithm **
+  **for Promethee algorithm**
       
         link for Download: 
 [Download](http://s9.picofile.com/file/8374074984/4_Decision_Lab.rar.html) 
