@@ -8,7 +8,7 @@
   مدل اول مساله رنگ آمیزی نقشه
   با نرم افزار گمز
 ##  
-#Practice 02:[Go](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/IP/Practice%2002/Description)
+#Practice 02: [Go](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/IP/Practice%2002/Description)
 ##
   مدل دوم مساله رنگ آمیزی نقشه
   با نرم افزار گمز
