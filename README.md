@@ -6,42 +6,42 @@
 ##
    ## 01- IP (Integer Programming) 
 ##        
-              Language Programming Software and Software:
+    Language Programming Software and Software:
 ##             
-               - GAMS, MATLAB, Python.
+    - GAMS, MATLAB, Python.
 ##                
-              Library:
+    Library:
 ##
-               - Numpy, Gurobi
+    - Numpy, Gurobi
 ##     
    ## 02- Sequencing
 ##             
-              Language Programming Software and Software:
+    Language Programming Software and Software:
 ##               
-               - GAMS, MATLAB, Python, C and CPP.
+    - GAMS, MATLAB, Python, C and CPP.
 ##              
-              Library:
+    Library:
 ##               
-               - Numpy.
+    - Numpy.
 ##       
    ## 03- MADM
 ##              
-              Language Programming Software and Software:
+   Language Programming Software and Software:
 ##               
-               - Expert Choice, Super Decision, Topsis, Decision Lab and Excel.
+    - Expert Choice, Super Decision, Topsis, Decision Lab and Excel.
 ##            
-              Library:
+    Library:
 ##               
-               - Noting
+    - Noting
 ##
    ## 04- Facility location and layout design
 ##
-              Language Programming Software and Software
+    Language Programming Software and Software
 ##
-               - Matlab
+    - Matlab
 ##
-              Library:
+    Library:
 ##
-               - Noting
+    - Noting
      
             
