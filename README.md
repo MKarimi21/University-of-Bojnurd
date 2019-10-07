@@ -7,13 +7,13 @@
    ## 01- IP (Integer Programming) 
 ##        
   Language Programming Software and Software:
-##             
+             
   - GAMS, MATLAB, Python.
-##                
+                
   Library:
-##
+
   - Numpy, Gurobi
-##     
+     
    ## 02- Sequencing
 ##             
   Language Programming Software and Software:
