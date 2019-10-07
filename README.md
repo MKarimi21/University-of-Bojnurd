@@ -5,7 +5,7 @@
 # Semester 01:
 ##
    ## 01- IP (Integer Programming) 
-##        
+       
   Language Programming Software and Software:
              
   - GAMS, MATLAB, Python.
@@ -15,7 +15,7 @@
   - Numpy, Gurobi
      
    ## 02- Sequencing
-##             
+           
   Language Programming Software and Software:
              
   - GAMS, MATLAB, Python, C and CPP.
@@ -25,7 +25,7 @@
   - Numpy.
       
    ## 03- MADM
-##              
+             
   Language Programming Software and Software:
               
   - Expert Choice, Super Decision, Topsis, Decision Lab and Excel.
@@ -35,7 +35,7 @@
   - Noting
 
    ## 04- Facility location and layout design
-##
+
   Language Programming Software and Software
 
   - Matlab
