@@ -1,10 +1,3 @@
-##
-##
-مدل دوم مساله رنگ آمیزی گراف
-
-##
-GAMS Software:
-##
 
 set v/1*6/;
 set j/1*4/;
@@ -34,3 +27,9 @@ model gc/all/;
 option optcr=0,optca=0,reslim=7200,limrow=1000;
 solve gc using rmip minimizing z;
 display e,z.l,y.l,gc.nodusd;
+
+
+* Practice 02 
+* GAMS 
+* مدل دوم مساله رنگ آمیزی گراف
+
