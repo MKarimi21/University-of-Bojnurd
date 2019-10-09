@@ -27,11 +27,11 @@ What do I need before I start:   [Use GitBash](https://roocket.ir/series/coding-
                
   - Numpy.
       
-   ## 03- MADM
+   ## 03- MCDM
              
   Language Programming Software and Software:
               
-  - Expert Choice, Super Decision, Topsis, Decision Lab and Excel.
+  - Expert Choice, Super Decision, Topsis, Decision Lab MATLAB and Excel.
            
   Library:
               
