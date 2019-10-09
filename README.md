@@ -1,7 +1,9 @@
 # [**University-of-Bojnurd**](https://ub.ac.ir/)
 
 **Practice courses in Industrial Engineering in Optimizing in the University of Bojnurd (OIE)**
-
+---
+How can i need to befor start:   [Use Git Bash](https://roocket.ir/series/coding-with-vscode)   [Use Github](https://github.com/MKarimi21/git)  [Use Visual code](https://roocket.ir/series/coding-with-vscode)
+--- 
 
 # Semester 01:
 ##
