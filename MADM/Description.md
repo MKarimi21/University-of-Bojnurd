@@ -34,5 +34,5 @@ License for MADM
         
   ## 5-For all algorithm
   
-    - **MATLAB**
-    - **Excel**
+   - **MATLAB**
+   - **Excel**
