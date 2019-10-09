@@ -31,5 +31,6 @@ display e,z.l,x.l,b.l,gc.nodusd;
 
 
 * Practice 01
+* GAMS
 * مدل 1: مدل برنامه ریزی رنگ آمیزی با نرم افزار گمز
 
