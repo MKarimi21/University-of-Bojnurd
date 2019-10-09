@@ -1,6 +1,6 @@
 # Software you need for this lession:
 
-License for MADM
+License for MCDM
 #
 #
 # Software
