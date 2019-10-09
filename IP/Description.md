@@ -18,4 +18,4 @@
 
 ---
 ## For Guide or need help, Contact me:
-- [Email](mailto:mkarimi21@hotmail.com), [Telegram](https://telegram.me/mkarimi21), [Call](tel:00989159830611)
+- [Email](mailto:mkarimi21@hotmail.com), [LinkedIn](https://www.linkedin.com/in/mkarimi21/), [Telegram](https://telegram.me/mkarimi21). 
