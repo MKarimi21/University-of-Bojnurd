@@ -2,7 +2,7 @@
 
 **Practice courses in Industrial Engineering in Optimizing in the University of Bojnurd (OIE)**
    ---
-What do I need before I start:   [Use Git Bash](https://roocket.ir/series/coding-with-vscode)  // [Use Github](https://github.com/MKarimi21/git) // [Use Visual code](https://roocket.ir/series/coding-with-vscode)
+What do I need before I start:   [Use GitBash](https://roocket.ir/series/coding-with-vscode)  // [Use Github](https://github.com/MKarimi21/git) // [Use Visual code](https://roocket.ir/series/coding-with-vscode)
    --- 
 
 # Semester 01:
