@@ -4,7 +4,7 @@
 - AHP
 - ANP
 - TOPSIS
-- MADM
+- MCDM
 - Promethee
 - Multi Criteria Decision Making
 - DEA algorithm
