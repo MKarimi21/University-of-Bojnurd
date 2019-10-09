@@ -32,3 +32,7 @@ License for MADM
         link for Download: 
 [Download](http://s9.picofile.com/file/8374074984/4_Decision_Lab.rar.html) 
         
+  ## 5-For all algorithm
+  
+    - **MATLAB**
+    - **Excel**
