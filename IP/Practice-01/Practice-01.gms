@@ -1,14 +1,3 @@
-#**Practice 01**
-#
-Description:
-#
-/Persian/
-#
-مدل 1: مدل برنامه ریزی رنگ آمیزی با نرم افزار گمز
-
-GAMS SoftWare:
-
-##
 
 set v/1*6/;
 alias(i,j,v);
@@ -38,3 +27,9 @@ model gc/all/;
 option optcr=0,optca=0,reslim=7200,limrow=1000;
 solve gc using rmip minimizing z;
 display e,z.l,x.l,b.l,gc.nodusd;
+
+
+
+* Practice 01
+* مدل 1: مدل برنامه ریزی رنگ آمیزی با نرم افزار گمز
+
