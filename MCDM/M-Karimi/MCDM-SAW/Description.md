@@ -6,7 +6,7 @@
 
 ## Step 02: Learn about SAW method 
 
-## Step 03: Download SAW mwthod in Excel [this here](https://1drv.ms/x/s!AguT2uoy_QiRiCJQ5Q3tp_NBe4Mk)
+## Step 03: Download SAW method in Excel [this here](https://1drv.ms/x/s!AguT2uoy_QiRiCJQ5Q3tp_NBe4Mk)
 
 ## Step 04: Run Matlab code [this here](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/MCDM/M-Karimi/MCDM-SAW/MCDM_SAW.m)
 
