@@ -6,7 +6,7 @@
 
 ## Step 02: Learn about Premutation method 
 
-## Step 03: Download Premutation mwthod in Excel [this here](https://1drv.ms/x/s!AguT2uoy_QiRiCjfm-dhnsNK1aTm)
+## Step 03: Download Premutation method in Excel [this here](https://1drv.ms/x/s!AguT2uoy_QiRiCjfm-dhnsNK1aTm)
 
 ## Step 04: Run Matlab code [this here](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/MCDM/M-Karimi/MCDM-Premutation/MCDM_Premutation.m)
 
