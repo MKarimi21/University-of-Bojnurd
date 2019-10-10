@@ -6,7 +6,7 @@
 
 ## Step 02: Learn about AHP method 
 
-## Step 03: Download AHP mwthod in Excel [this here](https://1drv.ms/x/s!AguT2uoy_QiRiCDyn50gGXMIMI2T)
+## Step 03: Download AHP method in Excel [this here](https://1drv.ms/x/s!AguT2uoy_QiRiCDyn50gGXMIMI2T)
 
 ## Step 04: Run Matlab code [this here](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/MCDM/M-Karimi/MCDM-AHP/MCDM_AHP.m)
 
