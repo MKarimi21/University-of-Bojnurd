@@ -10,6 +10,7 @@ Enter a value such that size>=4
 Enter a value such that size>=4
 ## What is the size of the chessboard? n =
 4
+
 [0, 0, 1, 0]
 [1, 0, 0, 0]
 [0, 0, 0, 1]
@@ -24,6 +25,7 @@ Total solutions = 2
 
 ## What is the size of the chessboard? n =
 5
+
 [1, 0, 0, 0, 0]
 [0, 0, 0, 1, 0]
 [0, 1, 0, 0, 0]
@@ -88,6 +90,7 @@ Total solutions = 10
 
 ## What is the size of the chessboard? n =
 6
+
 [0, 0, 0, 1, 0, 0]
 [1, 0, 0, 0, 0, 0]
 [0, 0, 0, 0, 1, 0]
@@ -120,6 +123,7 @@ Total solutions = 4
 
 ## What is the size of the chessboard? n =
 7
+
 [1, 0, 0, 0, 0, 0, 0]
 [0, 0, 0, 0, 1, 0, 0]
 [0, 1, 0, 0, 0, 0, 0]
@@ -444,6 +448,7 @@ Total solutions = 40
 
 ## What is the size of the chessboard? n =
 8
+
 [1, 0, 0, 0, 0, 0, 0, 0]
 [0, 0, 0, 0, 0, 0, 1, 0]
 [0, 0, 0, 0, 1, 0, 0, 0]
