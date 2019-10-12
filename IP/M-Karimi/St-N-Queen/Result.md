@@ -1,0 +1,29 @@
+## What is the size of the chessboard? n =
+
+1
+
+Trivial solution, choose a board size of atleast 4
+
+Enter a value such that size>=4
+## What is the size of the chessboard? n =
+
+2
+
+Enter a value such that size>=4
+## What is the size of the chessboard? n =
+
+3
+##What is the size of the chessboard? n =
+4
+[0, 0, 1, 0]
+[1, 0, 0, 0]
+[0, 0, 0, 1]
+[0, 1, 0, 0]
+
+[0, 1, 0, 0]
+[0, 0, 0, 1]
+[1, 0, 0, 0]
+[0, 0, 1, 0]
+
+Total solutions of Four = 2
+Total solutions = 2
