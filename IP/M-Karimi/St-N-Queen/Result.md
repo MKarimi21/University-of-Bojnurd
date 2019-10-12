@@ -13,8 +13,10 @@ Enter a value such that size>=4
 ## What is the size of the chessboard? n =
 
 3
-##What is the size of the chessboard? n =
+
+## What is the size of the chessboard? n =
 4
+
 [0, 0, 1, 0]
 [1, 0, 0, 0]
 [0, 0, 0, 1]
