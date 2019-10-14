@@ -10,6 +10,9 @@
   روش مجذور اقلیدوسی
   با نرم افزار متلب
 
+## Practice 03: [Go to page](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/Facilities-Location-and-Layout-Design/Practice-03/Practice-03.m)
+روش مجذور اقلیدوسی
+با نرم افزار متلب
 
 ---
 ## For Guide or need help, Contact me:
