@@ -5,3 +5,10 @@
 ## PDF File: [PDF](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/MCDM/M-Karimi/Book-Question/Book-Question.pdf)
 ## Power Point File: [PPT](https://1drv.ms/p/s!AguT2uoy_QiRiCv22y2L3RkoRg3A)
 
+
+
+
+
+---
+## For Guide or need help, Contact me:
+- [Email](mailto:mkarimi21@hotmail.com), [LinkedIn](https://www.linkedin.com/in/mkarimi21/), [Telegram](https://telegram.me/mkarimi21). 
