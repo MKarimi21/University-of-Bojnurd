@@ -3,7 +3,7 @@
 ## Step-02: [Solve AHP method](https://github.com/MKarimi21/University-of-Bojnurd/tree/master/MCDM/M-Karimi/Book-Question)
 #
 ## PDF File: [PDF](https://github.com/MKarimi21/University-of-Bojnurd/blob/master/MCDM/M-Karimi/Book-Question/Book-Question.pdf)
-## Power Point File: [PPT](https://1drv.ms/p/s!AguT2uoy_QiRiCv22y2L3RkoRg3A)
+## Power Point File: [PPT](https://1drv.ms/p/s!AguT2uoy_QiRiC2y3e39ADTQEW5e)
 
 
 
