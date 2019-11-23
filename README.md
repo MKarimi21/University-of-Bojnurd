@@ -1,6 +1,6 @@
 # [**University-of-Bojnurd**](https://ub.ac.ir/)
 
-**Practice courses in Industrial Engineering in Optimizing in the University of Bojnurd (OIE)**
+**Practice courses in Optimizing in Industrial Engineering in University of Bojnurd (OIE)**
    ---
 What do I need before I start:  [Use Git-Jadi](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git#faradars_demo_free) // [Use GitBash](https://roocket.ir/series/coding-with-vscode)  // [Use Github](https://github.com/MKarimi21/git) // [Use Visual code](https://roocket.ir/series/coding-with-vscode)
    --- 
