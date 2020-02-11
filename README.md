@@ -8,55 +8,73 @@
 
 
 **Practice courses in Optimizing in Industrial Engineering in University of Bojnurd (OIE)**
+
    ---
+   
 What do I need before starting:
 
 [![JADI](https://img.shields.io/badge/Use--Git%3A-JADI-success)](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git#faradars_demo_free)  [![Git](https://img.shields.io/badge/Use--Git%3A-Rocket.ir-red)](https://roocket.ir/series/learn-git-and-github)  [![VSCode](https://img.shields.io/badge/Use--VS--Code%3A-Rocket.ir-blue)](https://roocket.ir/series/coding-with-vscode)
 
 
 
+## What's included
 
-# Semester 01:
-##
-   ## 01- IP (Integer Programming) 
-       
-  Language Programming Software and Software:
-             
-  - GAMS, MATLAB, Python.
-                
-  Library:
+``` text
+University of Bojnurd/
+└── Semester 01 Classes/
+    ├── IP (Integer Programming) Class/
+    │   ├── Language Programming Software and Software:
+    │   |   └── GAMS, MATLAB, Python.
+    │   ├── Library:
+    │   ├   └── Numpy, Gurobi.
+    │   └── References
+    │       └── Integer Programming (Dr Hosein Karimi)
+    ├── Sequencing Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── GAMS, MATLAB, Python, C/C++.
+    |   ├── Library:
+    |   ├   └── Numpy,Pandas.
+    |   └── References
+    |       └── Non
+    ├── MCDM Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── Expert Choice, Super Decision, Decision Lab, MATLAB, Python, MS Excel.
+    |   ├── Library:
+    |   ├   └── Numpy,Pandas.
+    |   └── References
+    |       └── Non
+    ├── Facility location and layout design Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── MATLAB, Python.
+    |   ├── Library:
+    |   ├   └── Numpy,Pandas, Matplotlib.
+    |   └── References
+    └──     └── Facility location and layout design (Dr Mehdi Bashiri)
+└── Semester 02 Classes/
+    ├── ## Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── ##.
+    |   ├── Library:
+    |   ├   └── ##.
+    |   └── References
+    |       └── ##
+    ├── ## Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── ##.
+    |   ├── Library:
+    |   ├   └── ##.
+    |   └── References
+    |       └── ##   
+    ├── ## Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── ##.
+    |   ├── Library:
+    |   ├   └── ##.
+    |   └── References
+    └──     └── ##
+```
 
-  - Numpy, Gurobi
-     
-   ## 02- Sequencing
-           
-  Language Programming Software and Software:
-             
-  - GAMS, MATLAB, Python, C and CPP.
-             
-  Library:
-               
-  - Numpy.
-      
-   ## 03- MCDM
-             
-  Language Programming Software and Software:
-              
-  - Expert Choice, Super Decision, Topsis, Decision Lab MATLAB and Excel.
-           
-  Library:
-              
-  - Noting
 
-   ## 04- Facility location and layout design
-
-  Language Programming Software and Software
-
-  - Matlab
-
-  Library:
-
-  - Noting
      
 ---
 ## For Guide or need help, Contact me:
