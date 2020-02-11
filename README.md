@@ -2,12 +2,9 @@
   <a href="https://ub.ac.ir/">
     <img src="https://github.com/MKarimi21/University-of-Bojnurd/blob/master/BACKEND/IMG/University_of_Bojnord_logo.png" alt="University of Bojnurd" width="200" height="291">
   </a>
+  <img src="https://img.shields.io/badge/Licence-MIT-blue"
 </p>
 
-
-# [**University-of-Bojnurd**](https://ub.ac.ir/)
-
-https://img.shields.io/badge/Licence-MIT-blue
 
 **Practice courses in Optimizing in Industrial Engineering in University of Bojnurd (OIE)**
    ---
