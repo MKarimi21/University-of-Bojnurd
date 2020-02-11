@@ -1,14 +1,19 @@
 <p align="center">
-  <a href="https://ub.ac.ir/">
+  <a href="https://ub.ac.ir/" target="_blank">
     <img src="https://github.com/MKarimi21/University-of-Bojnurd/blob/master/BACKEND/IMG/University_of_Bojnord_logo.png" alt="University of Bojnurd" width="200" height="291">
   </a>
-  <img src="https://img.shields.io/badge/Licence-MIT-blue"
+  </br>
+  <a href="https://github.com/MKarimi21/University-of-Bojnurd/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/Licence-MIT-blue" target="_blank"></a>
 </p>
 
 
 **Practice courses in Optimizing in Industrial Engineering in University of Bojnurd (OIE)**
    ---
-What do I need before I start:  [Use Git-Jadi](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git#faradars_demo_free) // [Use GitBash](https://roocket.ir/series/coding-with-vscode)  // [Use Github](https://github.com/MKarimi21/git) // [Use Visual code](https://roocket.ir/series/coding-with-vscode)
+What do I need before starting: [![JADI](https://img.shields.io/badge/Use--Git%3A-JADI-success)](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git#faradars_demo_free) // []() // []()
+
+
+
+![https://img.shields.io/badge/Use--Git%3A-JADI-success](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git#faradars_demo_free) // [Use GitBash](https://roocket.ir/series/coding-with-vscode)  // [Use Github](https://github.com/MKarimi21/git) // [Use Visual code](https://roocket.ir/series/coding-with-vscode)
    --- 
 
 # Semester 01:
