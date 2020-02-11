@@ -20,8 +20,10 @@ What do I need before starting:
 ## What's included
 
 This courses create for master of science students in Optimization in Industrial Engeenering in University of Bojnurd and use it, but everyone can use and develope this reposetory.
+
 Thank you!
-Mostafa Karimi
+
+from: Mostafa Karimi
 
 ``` text
 University of Bojnurd/
