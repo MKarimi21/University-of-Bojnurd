@@ -1,24 +1,18 @@
-<p align="center">
- <h2>Web-for-Journal-and-Books-for-Download</h2>
- </br>
- <a href="https://github.com/MKarimi21/University-of-Bojnurd"><img src="https://img.shields.io/badge/Download-Free-yellow  https://github.com/MKarimi21/University-of-Bojnurd"></a>
+
+<h2 align="center">Web-for-Journal-and-Books-for-Download</h2>
+<p align="center"><a href="https://github.com/MKarimi21/University-of-Bojnurd"><img src="https://img.shields.io/badge/Download-Free-yellow"></a></p>
+
+-----------------
+<p dir="rtl">
+ <h3>موتور های جستجو معروف</h3>
 </p>
---------------------------------
 
-## موتور های جستجو معروف:
+| ردیف | توضیحات | صفحه وب |
+|:---: | ---: |:---:|
+|01 | **موتور اسکوپوس** | *[Scopus](https://www2.scopus.com/home.uri)*|
+|02 | **موتور اسکولار گوگل** | *[Scholar](https://scholar.google.com/)*|
+|03 | **موتور چینی با قابلیت دانلود یا کپی اسکولار** | *[Scilit](https://www.scilit.net/)*|
 
-## 01=  [Scopus](https://www2.scopus.com/home.uri)
-
-**موتور اسکوپوس**
-
-## 02=  [Scholar](https://scholar.google.com/)
-
-**موتور اسکولار گوگل**
-
-
-## 03=  [Scilit](https://www.scilit.net/)
-
-**موتور چینی با قابلیت دانلود یا کپی اسکولار**
 
 -------------------------------
 
