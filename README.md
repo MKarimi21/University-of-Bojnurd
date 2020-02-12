@@ -7,7 +7,7 @@
 </p>
 
 
-<h4 align="center"> Practice courses in Optimizing in Industrial Engineering in University of Bojnurd (OIE)</h4>
+<h4 align="center"> Practice courses in Optimization in Industrial Engineering in University of Bojnurd (OIE)</h4>
 
    ---
    
