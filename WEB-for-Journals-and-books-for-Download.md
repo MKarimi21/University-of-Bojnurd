@@ -3,9 +3,7 @@
 <p align="center"><a href="https://github.com/MKarimi21/University-of-Bojnurd"><img src="https://img.shields.io/badge/Download-Free-yellow"></a></p>
 
 -----------------
-<p dir="rtl">
- <h3>موتور های جستجو معروف</h3>
-</p>
+<h3 dir="rtl">موتور های جستجو معروف</h3>
 
 | ردیف | توضیحات | صفحه وب |
 |:---: | ---: |:---:|
@@ -15,58 +13,55 @@
 
 
 -------------------------------
-
-## ناشران علمی یا پابلیشر ها 
-
-شامل:
-
- 01-ژورنال =  شماره
-
- 02-کنفرانس ها  = شماره
-
- 03-کتاب ها  =  شماره
+<h3 dir="rtl">
+ناشران علمی یا پابلیشر ها 
+</h3>
+ــــــ
  
- ــــــ
- 
- ## 01-01= Elsevier = [Go to page](https://www.sciencedirect.com/)
-
- ## 01-02= Springer = [Go to page](https://www.springer.com/gp)
-
- ## 01-03= T&F = [Go to page](https://www.tandfonline.com/)
-
- ## 01-04= Wiley = [Go to page](https://www.wiley.com/en-ir)
- 
- ## 01-05= Sage = [Go to page](https://journals.sagepub.com/)
- 
- ## 01-06= InderSciencce = [Go to page](https://www.inderscience.com/)
-
- ## 01-07= **INFORMS** = **[Go to page](https://www.informs.org/Publications/INFORMS-Journals)**
-
- ## 02-01= Civilica = [Go to page](https://www.civilica.com/)
-
- ## 03-01= Free Download Books = [Go to page](https://b-ok.org/)
+| ردیف | ناشر | اسم ناشر | صفحه وب |
+| :--- | :---: | :---: | :---: |
+|01|ژورنال| Elsevier | [Go to page](https://www.sciencedirect.com/)|
+|02|ژورنال| Springer | [Go to page](https://www.springer.com/gp)|
+|03|ژورنال| T&F | [Go to page](https://www.tandfonline.com/)|
+|04|ژورنال| Wiley | [Go to page](https://www.wiley.com/en-ir)| 
+|05|ژورنال| Sage | [Go to page](https://journals.sagepub.com/)|
+|06|ژورنال| InderSciencce | [Go to page](https://www.inderscience.com/)|
+|07|ژورنال| **INFORMS** | **[Go to page](https://www.informs.org/Publications/INFORMS-Journals)**|
+|08|کنفرانسی| Civilica | [Go to page](https://www.civilica.com/)|
+|09|دانلود کتاب| Free Download Books | [Go to page](https://b-ok.org/)|
+|10|دانلود کتاب| Libgen | [Go to page](http://libgen.is/)|
 
  --------------------------------
 
-## برای دانلود رایگان 
-
- **برای دانلود رایگان از ژورنال ها:**
-
+<h3 dir="rtl">برای دانلود رایگان </h3>
+<h3 dir="rtl">
+ برای دانلود رایگان از ژورنال ها:
  به دلیل تغییر دامنه اول وارد سایت 
+</h3>
 
  **[Sci-hub](http://sci-hub.tech/)**
 
+<h3 dir="rtl">
  شوید بعد یکی از دامین ها رو انتخاب و وارد سایت شوید
-
  برای دسترسی به اسکوپوس و دانلود مقالات هم میتوانید 
+</h3>
 
  **[Yaesh!](http://yabesh.ir/)**
 
+<h3 dir="rtl">
  وارد این سایت شده بعد به راحتی به اون هدف دسترسی پیدا کنید
-
+</h3>
  
  ------------------------------
  
+ >
+
+    This courses create for master of science students in Optimization in Industrial Engeenering in University of Bojnurd and use it, but everyone can use and develope this reposetory.
+
+    Thank you!
+
+    from: Mostafa Karimi
+
  
 ---
 ## For Guide or need help, Contact me:
