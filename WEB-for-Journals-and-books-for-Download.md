@@ -42,17 +42,18 @@
  **[Sci-hub](http://sci-hub.tech/)**
 
 <h3 dir="rtl">
- شوید بعد یکی از دامین ها رو انتخاب و وارد سایت شوید
- برای دسترسی به اسکوپوس و دانلود مقالات هم میتوانید 
+ شده، بعد یکی از دامین ها رو انتخاب و وارد سایت شوید
+ برای دسترسی به اسکوپوس و دانلود مقالات هم میتوانید از 
 </h3>
 
- **[Yaesh!](http://yabesh.ir/)**
+ **[Yabesh!](http://yabesh.ir/)**
 
 <h3 dir="rtl">
- وارد این سایت شده بعد به راحتی به اون هدف دسترسی پیدا کنید
+ شده و بعد به راحتی به اون هدف دسترسی پیدا کنید
 </h3>
  
  ------------------------------
+ 
  
 > This courses create for _**master of science students in Optimization in Industrial Engeenering in University of Bojnurd**_ and use it, but everyone can use and develope this reposetory.
 
