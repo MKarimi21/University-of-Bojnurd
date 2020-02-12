@@ -19,7 +19,7 @@ What do I need before starting:
 
 ## What's included
 
-> This courses create for _master of science students in Optimization in Industrial Engeenering in University of Bojnurd_** and use it, but everyone can use and develope this reposetory.
+> This courses create for _**master of science students in Optimization in Industrial Engeenering in University of Bojnurd**_ and use it, but everyone can use and develope this reposetory.
 
 > Thank you!
 
