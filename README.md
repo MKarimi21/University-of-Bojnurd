@@ -71,13 +71,13 @@ University of Bojnurd/
     |   ├   └── ##.
     |   └── References
     |       └── ##   
-    ├── ## Class/
+    ├── Design and Analysis of Experiments Class/
     |   ├── Language Programming Software and Software:
-    |   |   └── ##.
+    |   |   └── Minitab, Python.
     |   ├── Library:
-    |   ├   └── ##.
+    |   ├   └── Numpy, Matplotlib, Pandas.
     |   └── References
-    └──     └── ##
+    └──     └── Design and Analysis of Experiments (Douglas C. Montgomery)
 ```
 
 
