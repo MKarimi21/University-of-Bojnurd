@@ -11,3 +11,6 @@ Correctly designed experiments advance knowledge in the natural and social scien
 
 
 > Wikipedia
+
+
+> **Reference:** Douglas_C__Montgomery_Design_and_Analysis_of_Experiments_6th_Edition
