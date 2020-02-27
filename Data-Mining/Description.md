@@ -13,3 +13,6 @@ The related terms data dredging, data fishing, and data snooping refer to the us
 
 
 > Wikipedia
+
+
+### Auxiliary link: [Link](https://drive.google.com/file/d/1kX9Li200eEnyhSnhLvTQz9hq7fnAbCpH/view?usp=sharing)
