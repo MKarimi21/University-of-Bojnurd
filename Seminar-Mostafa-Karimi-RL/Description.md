@@ -37,7 +37,10 @@
 Video: [Online-on-YouTube](https://youtu.be/eUqzz5TzGc8)
 
 Document: [Online-Docx](https://drive.google.com/file/d/1aS1scoIP5XmQ25JohL5CSAyAlQq81uWE/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1DZaECZX_0RoNEJWy0QvCIEsm2zHpOb4X/view?usp=sharing) 
+
+
 Presentation: [Online-PowerPoint](https://drive.google.com/file/d/1OYFVSFY--OV3IeuQvDvnGAfPtOMae64W/view?usp=sharing) | [PDF](https://drive.google.com/file/d/1DiDSax8BvGLX-y_kbcxdQckiAFoM4fg1/view?usp=sharing)
+
 
 Paper-Package: [G-Drive](https://drive.google.com/drive/folders/1gAyuEN-DbylSpsPUdKsawimUd-w2MstR?usp=sharing)
 
