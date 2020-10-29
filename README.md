@@ -27,7 +27,7 @@ What do I need before starting:
 
 ``` text
 University of Bojnurd/
-└── Semester 01 Classes/
+└── Term 01 Classes/
     ├── IP (Integer Programming) Class/
     │   ├── Language Programming Software and Software:
     │   |   └── GAMS, MATLAB, Python.
@@ -56,7 +56,7 @@ University of Bojnurd/
     |   ├   └── Numpy,Pandas, Matplotlib.
     |   └── References
     └──     └── Facility location and layout design (Dr Mehdi Bashiri)
-└── Semester 02 Classes/
+└── Term 02 Classes/
     ├── Combinatorial Optimization Class/
     |   ├── Language Programming Software and Software:
     |   |   └── Python, MATLAB.
