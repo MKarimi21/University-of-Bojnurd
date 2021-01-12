@@ -11,14 +11,16 @@ SampleArea = [[1, 2, 3, 4, 5, 6],
               [5, 9, 1, 7, 5, 4], 
               [6, 3, 0, 1, 5, 6],]
 
+Table_mu = [2, 6, 6, 8, 5, 8]              
+
 def yHad():
     """
     >> yHad()
     [Avg1, Avg2, ...]
     """
-    level1 = range(len(Table_3_7))
-    level2 = len(Table_3_7[0])
-    yHad_Array = [(sum(Table_3_7[i]) / level2) for i in level1]
+    level1 = range(len(SampleArea))
+    level2 = len(SampleArea[0])
+    yHad_Array = [(sum(SampleArea[i]) / level2) for i in level1]
 
     return yHad_Array
 
@@ -27,7 +29,7 @@ def sampleCov():
     >> sampleCov()
     [size = len(Table) * len(Table)]
     """
-    return np.cov(Table_3_7)
+    return np.cov(SampleArea)
 
 def calculateTsquar():
     """
@@ -35,7 +37,7 @@ def calculateTsquar():
     T-Squar
     """
 
-    N = len(Table_3_7[0])
+    N = len(SampleArea[0])
     
     difrenceY = np.array(yHad()) - Table_mu
 
@@ -57,8 +59,8 @@ def student_t():
     >> student_t()
     [t1, t2, ...]
     """
-    level1 = len(Table_3_7[0])
-    St_T= [(yHad()[i] - Table_mu[i]) / (stdev(Table_3_7[i]) / sqrt(level1)) for i in range(4)]
+    level1 = len(SampleArea[0])
+    St_T= [(yHad()[i] - Table_mu[i]) / (stdev(SampleArea[i]) / sqrt(level1)) for i in range(4)]
 
     
 
