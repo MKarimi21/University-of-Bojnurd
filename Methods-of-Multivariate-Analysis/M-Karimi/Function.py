@@ -1,5 +1,5 @@
 # all functions in class
-from numpy.linalg import inv
+from numpy import linalg
 from numpy import diag, cov, array, transpose, dot
 from statistics import stdev 
 from math import sqrt
@@ -44,7 +44,7 @@ def calculateTsquar():
 
     transposDif = transpose(difrenceY)
 
-    invSampl = inv(sampleCov())
+    invSampl = linalg.inv(sampleCov())
 
     part1 = dot(transposDif, invSampl)
 
@@ -69,9 +69,14 @@ def student_t():
 
 
 
+
+
+
+
+# Sample Print
 # Result = "============= Result ============="
 
-# print("{}\nY Had is: \n{} \nSample Covariance: \n{} \nT-Square is: \n{}".format(Result, yHad(), sampleCov(), calculateTsquar()))
+# print("{}\nY Had is: \n{} \nSample Covariance: \n{} \n\nT-Square is: \n{}".format(Result, yHad(), sampleCov(), calculateTsquar()))
 
 
 # for i in range(4):
