@@ -78,6 +78,14 @@ University of Bojnurd/
     |   ├   └── Numpy, Matplotlib, Pandas.
     |   └── References
     └──     └── Design and Analysis of Experiments (Douglas C. Montgomery)
+└── Term 03 Classes/
+    ├── Methods of Multivariate Analysis Class/
+    |   ├── Language Programming Software and Software:
+    |   |   └── Python, MATLAB, R.
+    |   ├── Library:
+    |   ├   └── Numpy.
+    |   └── References
+    |       └── Methods of Multivariate Analysis (Alvin C. Rencher)    
 ```
 
 
