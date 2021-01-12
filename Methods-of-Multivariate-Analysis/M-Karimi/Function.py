@@ -1,6 +1,6 @@
 # all functions in class
 from numpy import linalg
-from numpy import diag, cov, array, transpose, dot
+from numpy import diag, cov, array, transpose, dot, diag
 from statistics import stdev 
 from math import sqrt
 
@@ -13,9 +13,35 @@ SampleArea = [[1, 2, 3, 4, 5, 6],
               [6, 3, 0, 1, 5, 6],]
 
 Table_mu = [2, 6, 6, 8, 5, 8]              
+ATable = [9, 8, 5, 3, 7, 8]
+ATable1 = array([[9], [8], [5], [3], [7], [8],])
 
 
 
+def diagArray():
+    """
+    >> diag()
+    [A11, A22, A33, ..., Ann]
+    """
+    diag_Array = diag(SampleArea)
+    
+    return diag_Array
+
+# print("Diag: {}".format(diagArray()))
+
+def AAprime():
+    """
+    >> AAprime()
+    aaprime and aprimea
+    """
+    aprimeA = dot(transpose(ATable), ATable)
+
+    # Aaprime = dot(ATable1, ATable)
+    
+
+    return aprimeA
+
+print(AAprime())
 
 
 
