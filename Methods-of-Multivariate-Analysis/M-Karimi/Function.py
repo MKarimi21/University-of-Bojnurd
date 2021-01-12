@@ -1,5 +1,6 @@
 # all functions in class
-import numpy as np
+from numpy.linalg import inv
+from numpy import diag, cov, array, transpose, dot
 from statistics import stdev 
 from math import sqrt
 
@@ -29,7 +30,7 @@ def sampleCov():
     >> sampleCov()
     [size = len(Table) * len(Table)]
     """
-    return np.cov(SampleArea)
+    return cov(SampleArea)
 
 def calculateTsquar():
     """
@@ -39,15 +40,15 @@ def calculateTsquar():
 
     N = len(SampleArea[0])
     
-    difrenceY = np.array(yHad()) - Table_mu
+    difrenceY = array(yHad()) - Table_mu
 
-    transposDif = np.transpose(difrenceY)
+    transposDif = transpose(difrenceY)
 
-    invSampl = np.linalg.inv(sampleCov())
+    invSampl = inv(sampleCov())
 
-    part1 = np.dot(transposDif, invSampl)
+    part1 = dot(transposDif, invSampl)
 
-    part2 = np.dot(part1, difrenceY)
+    part2 = dot(part1, difrenceY)
 
     TSquar = N * part2
     
