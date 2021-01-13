@@ -1,6 +1,6 @@
 # all functions in class
 from numpy import linalg
-from numpy import diag, cov, array, transpose, dot, corrcoef
+from numpy import diag, cov, array, transpose, dot, corrcoef, mean
 from statistics import stdev 
 from math import sqrt
 
@@ -107,10 +107,15 @@ def yHad():
     [Avg1, Avg2, ...]
     """
     level1 = range(len(SampleArea))
-    level2 = len(SampleArea[0])
-    yHad_Array = [(sum(SampleArea[i]) / level2) for i in level1]
+
+    yHad_Array = [mean(SampleArea[i]) for i in level1]
+
 
     return yHad_Array
+
+# print(yHad())
+
+
 
 def sampleCov():
     """
