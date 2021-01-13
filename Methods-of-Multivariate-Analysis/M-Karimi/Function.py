@@ -65,7 +65,15 @@ def effectArray():
 
 # print(effectArray())
 
+def determin():
+    """
+    
+    """
+    deterArray = linalg.det(SampleArea)
 
+    return deterArray
+
+# print(determin())
 
 
 
