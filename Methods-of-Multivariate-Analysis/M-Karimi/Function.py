@@ -1,6 +1,6 @@
 # all functions in class
 from numpy import linalg
-from numpy import diag, cov, array, transpose, dot, diag
+from numpy import diag, cov, array, transpose, dot, corrcoef
 from statistics import stdev 
 from math import sqrt
 
@@ -74,6 +74,30 @@ def determin():
     return deterArray
 
 # print(determin())
+
+def Rcorr(n, m):
+    """
+    
+    """
+    corrRnm = corrcoef(SampleArea[n-1], SampleArea[m-1])
+
+    return corrRnm
+
+# print(Rcorr(1, 3))
+
+def TotalRcorr():
+    """
+    
+    """
+
+    TotalCorrC = corrcoef(SampleArea)
+
+    return TotalCorrC
+
+# print(TotalRcorr())
+
+
+
 
 
 
