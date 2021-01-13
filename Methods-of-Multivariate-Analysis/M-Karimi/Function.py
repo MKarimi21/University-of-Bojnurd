@@ -54,6 +54,16 @@ def vectorLength():
 
 # print(vectorLength())
 
+def effectArray():
+    """
+    
+    """
+
+    effect = sum(diagArray())
+
+    return effect
+
+# print(effectArray())
 
 
 
