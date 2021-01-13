@@ -41,7 +41,18 @@ def AAprime():
 
     return aprimeA
 
-print(AAprime())
+# print(AAprime())
+
+def vectorLength():
+    """
+    >> vectorLength()
+    sqrt(Sum(AAprime))
+    """
+    vecLen = sqrt(AAprime())
+
+    return vecLen
+
+# print(vectorLength())
 
 
 
