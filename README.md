@@ -89,7 +89,7 @@ University of Bojnurd/
 ```
 
 
-
+As an <a href="https://online.visual-paradigm.com/partner/academic/" target="_blank">academic partner of Visual Paradigm</a>, University of Bojnord has access to the online diagramming tools (e.g. <a href="https://online.visual-paradigm.com/features/uml-tool/" target="_blank">UML</a>, <a href="https://online.visual-paradigm.com/features/flowchart-tool/" target="_blank">Flowchart</a>, <a href="https://online.visual-paradigm.com/features/archimate-tool/" target="_blank">ArchiMate</a>, <a href="https://online.visual-paradigm.com/features/bpmn-tool/" target="_blank">BPMN</a>, <a href="https://online.visual-paradigm.com/features/mind-mapping-tool/" target="_blank">Mindmap</a>, etc) and <a href="https://online.visual-paradigm.com/features/agile-development-tool/" target="_blank">scrum tools</a> provided by Visual Paradigm.
 
 
 ---
